@@ -1,0 +1,15 @@
+.../dens-asio-03/build$ ./dens-asio 
+wait to recv
+recv=hello mr. server
+
+wait to recv
+recv=i have something to say
+
+wait to recv
+recv=this is way cooler than using someone else's wierdo ui framework
+
+wait to recv
+recv=ok bye for now
+
+wait to recv
+^C

@@ -1,0 +1,8 @@
+.../dens-asio-03/input$ ./send_udp.sh "hello mr. server"
+hello mr. server
+.../dens-asio-03/input$ ./send_udp.sh "i have something to say"
+i have something to say
+.../dens-asio-03/input$ ./send_udp.sh "this is way cooler than using someone else\'s wierdo ui framework"
+this is way cooler than using someone else\'s wierdo ui framework
+.../dens-asio-03/input$ ./send_udp.sh "ok bye for now"
+ok bye for now
